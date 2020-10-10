@@ -29,6 +29,10 @@ h1 {
     display: block;
 }
 
+.container ul li {
+    list-style-type: none;
+}
+
 .container ul li a {
     font-size: 30px;
     color: white;
